@@ -14,6 +14,7 @@ public class bipartiteGraph {
 			 }
 			  
 		 }
+		 System.out.println(1);
 		 return true;
 	}
 	
